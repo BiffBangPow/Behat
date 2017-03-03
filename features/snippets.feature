@@ -463,7 +463,7 @@ Feature: Snippets generation and addition
           /**
            * @Given that it's eleven o'clock
            */
-          public function thatItsElevenOClock()
+          public function thatItsElevenOclock()
           {
               throw new PendingException();
           }

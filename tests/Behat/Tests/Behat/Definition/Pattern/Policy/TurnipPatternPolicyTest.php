@@ -88,7 +88,7 @@ class TurnipPatternPolicyTest extends \PHPUnit_Framework_TestCase
             [
                 'that it\'s eleven o\'clock',
                 'that it\'s eleven o\'clock',
-                'ThatItsElevenOClock',
+                'ThatItsElevenOclock',
             ],
             [
                 'the guest\'s taxi has arrived',
