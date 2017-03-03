@@ -13,11 +13,18 @@
         }
     ],
 
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/BiffBangPow/Transliterator"
+        }
+    ],
+
     "require": {
         "php": ">=5.3.3",
         "ext-mbstring": "*",
         "behat/gherkin": "^4.4.4",
-        "behat/transliterator": "~1.0",
+        "behat/transliterator": "dev-feature/976-apostrophes-vs-capitals-in-snippets",
         "symfony/console": "~2.5||~3.0",
         "symfony/config": "~2.3||~3.0",
         "symfony/dependency-injection": "~2.1||~3.0",
