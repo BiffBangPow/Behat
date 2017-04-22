@@ -11,6 +11,8 @@ cache:
 branches:
   only:
     - master
+    # ToDo: Remove this line once all done
+    - feature/976-apostrophes-vs-capitals-in-snippets
 
 matrix:
   include:
